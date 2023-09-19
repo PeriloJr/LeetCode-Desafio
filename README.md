@@ -29,9 +29,9 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 # Desafios concluídos
 
-- 🟢 [9. Palindrome Number](https://leetcode.com) 
+- 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/9.%20Palindrome%20Number) 
 
-- 🟢 [287. Find the Duplicate Number](https://leetcode.com) 
+- 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
 
 Dificuldades 
 - 🟢 - Fácil
