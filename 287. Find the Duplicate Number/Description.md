@@ -29,7 +29,6 @@ Entrada: nums = [3,1,3,4,2]
 Saída: 3
 
 ```
-~~~javascript
 //Desafio: encontrar através de um array qual número esta sendo repetido
 //De acordo com a descrição deverá ter apenas um único número repetido
 //Lógica elaborada: criar um objeto vazio que terá seus atributos inseridos
