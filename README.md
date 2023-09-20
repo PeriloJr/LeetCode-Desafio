@@ -1,6 +1,6 @@
 
 # Desafio LeetCode
-![Alt text](resources/image.png){height=250}
+<img src="resources/image.png" width="200" height="200" />
 Repositório com o objetivo de inserir os desafios resolvidos da plataforma Leetcode
 
   
