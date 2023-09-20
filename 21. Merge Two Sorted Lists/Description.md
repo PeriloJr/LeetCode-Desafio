@@ -4,6 +4,7 @@ You are given the heads of two sorted linked lists list1 and list2.
 Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
 
 Return the head of the merged linked list.
+<br>
 ![Alt text](image.png)
  
 
@@ -25,6 +26,7 @@ Você recebe as cabeças de duas listas encadeadas "list1" e "list2"
 Mescle as duas listas em uma lista ordenada. A lista devera ser feita emendando os nós das primeiras duas listas
 
 Retorne a cabeça da lista encadeada mesclada.
+<br>
 ![Alt text](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
  
 Exemplo 1:

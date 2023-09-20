@@ -31,6 +31,8 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 - 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/9.%20Palindrome%20Number) 
 
+- 🟢 [21. Merge Two Sorted Lists](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/21.%20Merge%20Two%20Sorted%20Lists) 
+
 - 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
 
 Dificuldades 
