@@ -1,6 +1,6 @@
 # 14. Longest Common Prefix
 
-## Description:
+## 📢 Description:
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
 
@@ -13,7 +13,7 @@ Input: strs = ["dog","racecar","car"]
 Output: ""
 Explanation: There is no common prefix among the input strings.
 
-## Descrição:
+## 📢 Descrição:
 Escreva uma função que encontra o maior prefixo comum da string entre um array de strings.
 Se não houver prefixo comum, retorne uma string vazia "".
 
@@ -26,7 +26,7 @@ Entrada: strs = ["dog","racecar","car"]
 Saída: ""
 
 
-## Solução
+## 💡 Solução
 
 ```
 //Desafio: encontrar o maior prefixo entre todos os elementos de um array de strings

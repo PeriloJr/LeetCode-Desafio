@@ -1,6 +1,6 @@
 
-# 🚀 Desafio LeetCode
-
+# Desafio LeetCode
+![Alt text](resources/image.png)
 Repositório com o objetivo de inserir os desafios resolvidos da plataforma Leetcode
 
   
