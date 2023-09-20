@@ -1,23 +1,17 @@
 
 # Desafio LeetCode
 <p align="center"><img src="resources/image.png" width="200" height="200" /> </p>
-Repositório com o objetivo de inserir os desafios resolvidos da plataforma Leetcode
-
-  
+Este repositório contém soluções para desafios do LeetCode, uma plataforma popular para prática de algoritmos e estruturas de dados. Aqui você encontrará soluções em várias linguagens de programação para uma variedade de problemas de programação.
 
 ## 📚 Sobre o LeetCode
 
 O LeetCode é uma plataforma online popular que oferece uma ampla variedade de problemas de programação, desde problemas de fácil resolução até desafios mais complexos. Ele é amplamente utilizado por desenvolvedores de software, engenheiros de software e empresas de tecnologia para aprimorar suas habilidades de programação e preparar-se para entrevistas técnicas.
-
-  
 
 ## 📦 Estrutura do Repositório
 
 - Cada pasta será nomeada com o nome do desafio inserido no LeetCode
 
 - Dentro destas pastas haverão dois arquivos, um com script desenvolvido e outro com a descrição original proposta na plataforma juntamente com sua tradução para PT-BR.
-
-  
 
 ## 🌟 Motivação
 
