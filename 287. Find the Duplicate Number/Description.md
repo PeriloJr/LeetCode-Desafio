@@ -14,11 +14,7 @@ Input: nums = [3,1,3,4,2]
 Output: 3
 
 Descrição:
-Dada uma matriz de números inteiros contendo n + 1 inteiros, onde cada inteiro está no intervalo [1, n] inclusive.
-
-Existe apenas um número repetido em nums, retorne esse número repetido.
-
-Você deve resolver o problema sem modificar o array nums e usar apenas espaço extra constante.
+Dada uma matriz de números inteiros contendo n + 1 inteiros, onde cada inteiro está no intervalo [1, n] inclusive. Existe apenas um número repetido em nums, retorne esse número repetido. Você deve resolver o problema sem modificar o array nums e usar apenas espaço extra constante.
 
 Exemplo 1:
 Entrada: nums = [1,3,4,2,2]
