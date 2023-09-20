@@ -31,6 +31,8 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 - 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/9.%20Palindrome%20Number) 
 
+- 🟢 [14. Longest Common Prefix](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/14.%20Longest%20Common%20Prefix/Description.md) 
+
 - 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
 
 - 🟡 🛠️ [1658. Minimum Operations to Reduce X to Zero](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) 
