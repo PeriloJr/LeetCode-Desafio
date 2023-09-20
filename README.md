@@ -1,17 +1,17 @@
 
-# Desafio LeetCode
+# 🚀 Desafio LeetCode
 
 Repositório com o objetivo de inserir os desafios resolvidos da plataforma Leetcode
 
   
 
-## Sobre o LeetCode
+## 📚 Sobre o LeetCode
 
 O LeetCode é uma plataforma online popular que oferece uma ampla variedade de problemas de programação, desde problemas de fácil resolução até desafios mais complexos. Ele é amplamente utilizado por desenvolvedores de software, engenheiros de software e empresas de tecnologia para aprimorar suas habilidades de programação e preparar-se para entrevistas técnicas.
 
   
 
-## Estrutura do Repositório
+## 📦 Estrutura do Repositório
 
 - Cada pasta será nomeada com o nome do desafio inserido no LeetCode
 
@@ -19,7 +19,7 @@ O LeetCode é uma plataforma online popular que oferece uma ampla variedade de p
 
   
 
-## Motivação
+## 🌟 Motivação
 
 Trabalhar na área de desenvolvimento é algo desafiador que requer uma lógica avançada.
 
@@ -27,7 +27,7 @@ Devido ao ambiente de trabalho possuir cada dia mais desafios é sempre interess
 
 Pensando em descobrir novas formas de fazer o mesmo, criei este repositório para armazenar todos os desafios desenvolvidos.
 
-# Desafios concluídos
+# 🎉 Desafios concluídos
 
 - 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/9.%20Palindrome%20Number) 
 
