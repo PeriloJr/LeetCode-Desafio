@@ -35,7 +35,13 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 - 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
 
-Dificuldades 
+- 🟡 🛠️ [1658. Minimum Operations to Reduce X to Zero](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
+
+#### Legendas 
+Nível de complexidade:
 - 🟢 - Fácil
 - 🟡 - Moderado
 - 🔴 - Difícil
+
+Ícones:
+- 🛠️ - Em desenvolvimento
