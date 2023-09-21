@@ -23,15 +23,15 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 # 🎉 Desafios concluídos
 
-- 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/9.%20Palindrome%20Number) 
+- 🟢 [9. Palindrome Number](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/9.%20Palindrome%20Number/Description.md) 
 
 - 🟢 [14. Longest Common Prefix](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/14.%20Longest%20Common%20Prefix/Description.md) 
 
-- 🟡 [15. 3Sum](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/15.%203Sum) 
+- 🟡 [15. 3Sum](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/Description.md) 
 
-- 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
+- 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/287.%20Find%20the%20Duplicate%20Number/Description.md) 
 
-- 🟡 [560. Subarray Sum Equals K](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/287.%20Find%20the%20Duplicate%20Number) 
+- 🟡 [560. Subarray Sum Equals K](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/560.%20Subarray%20Sum%20Equals%20K/Description.md) 
 
 - 🟡 🛠️ [1658. Minimum Operations to Reduce X to Zero](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) 
 

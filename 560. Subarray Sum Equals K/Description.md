@@ -16,6 +16,14 @@ Output: 2
 Dado um array de inteiros "nums" e um inteiro "k", retorne o total de numberos de subarrays cuja a soma seja k.
 Um subarray é uma sequência contígua e não vazio de elementos dentro de uma matriz.
 
+Exemplo 1:
+Entrada: nums = [1,1,1], k = 2
+Saída: 2
+
+Exemplo 2:
+Entrada: nums = [1,2,3], k = 3
+Saída: 2
+
 ## 💡 Solução 
 
 ```
