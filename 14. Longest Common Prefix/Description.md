@@ -75,3 +75,6 @@ var longestCommonPrefix = function(strs) {
     return firstWord
 };
 ```
+
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/14.%20Longest%20Common%20Prefix/script.js) 
+- :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

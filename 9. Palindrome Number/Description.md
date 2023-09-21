@@ -62,3 +62,6 @@ Explicação: Lê-se 01 Da direita para esquerda. Portanto ste não é palindrom
         return false
     }
 ```
+
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/9.%20Palindrome%20Number/script.js) 
+- :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

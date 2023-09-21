@@ -64,3 +64,6 @@ var  findDuplicate  =  function(nums) {
 	}
 };
 ```
+
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/287.%20Find%20the%20Duplicate%20Number/script.js) 
+- :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

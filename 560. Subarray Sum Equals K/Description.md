@@ -57,3 +57,6 @@ var subarraySum = function(nums, k) {
     return count;
 }
 ```
+
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/560.%20Subarray%20Sum%20Equals%20K/script.js) 
+- :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

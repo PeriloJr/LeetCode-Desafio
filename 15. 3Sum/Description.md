@@ -120,5 +120,5 @@ var threeSum = function(nums) {
 }
 ```
 
-:computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/script.js) 
-:rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/script.js) 
+- :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 
