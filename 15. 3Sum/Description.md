@@ -23,13 +23,19 @@ The distinct triplets are [-1,0,1] and [-1,-1,2].
 Notice that the order of the output and the order of the triplets does not matter.
 
 Example 2:
+
 Input: nums = [0,1,1]
+
 Output: []
+
 Explanation: The only possible triplet does not sum up to 0.
 
 Example 3:
+
 Input: nums = [0,0,0]
+
 Output: [[0,0,0]]
+
 Explanation: The only possible triplet sums up to 0.
 
 ## 📢 Descrição:
@@ -55,13 +61,19 @@ Os trios distintos são [-1,0,1] and [-1,-1,2].
 Note que a ordem da saída e a ordem dos trios não importa.
 
 Exemplo 2:
+
 Entrada: nums = [0,1,1]
+
 Saída: []
+
 Explicação: O único trio possível não soma 0.
 
 Exemplo 3:
+
 Entrada: nums = [0,0,0]
+
 Saída: [[0,0,0]]
+
 Explicação: O unico trio possível soma 0.
 
 ## 💡 Solução 
