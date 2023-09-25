@@ -78,5 +78,5 @@ Desta forma, será retornada a 1º posição.
 };
 ```
 
-- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/script.js) 
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/136.%20Single%20Number/script.js) 
 - :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

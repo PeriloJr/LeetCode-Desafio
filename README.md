@@ -29,6 +29,8 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 - 🟡 [15. 3Sum](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/Description.md) 
 
+- 🟢 [136. Single Number](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/136.%20Single%20Number/Description.md)
+
 - 🟢 [287. Find the Duplicate Number](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/287.%20Find%20the%20Duplicate%20Number/Description.md) 
 
 - 🟡 [560. Subarray Sum Equals K](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/560.%20Subarray%20Sum%20Equals%20K/Description.md) 
