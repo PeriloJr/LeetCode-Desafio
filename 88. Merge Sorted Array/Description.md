@@ -109,5 +109,5 @@ var merge = function(nums1, m, nums2, n) {
 };
 ```
 
-- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/14.%20Longest%20Common%20Prefix/script.js) 
+- :computer: [Script](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/88.%20Merge%20Sorted%20Array/scripts.js) 
 - :rewind: [Voltar ao início](https://github.com/PeriloJr/LeetCode-Desafio/tree/main) 

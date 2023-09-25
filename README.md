@@ -30,7 +30,7 @@ Outro ponto interessante que diversas empresas de grande nome no mercado solicit
 
 - 🟡 [15. 3Sum](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/15.%203Sum/Description.md) 
 
-- 🟢 [88. Merge Sorted Array](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/14.%20Longest%20Common%20Prefix/Description.md) 
+- 🟢 [88. Merge Sorted Array](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/88.%20Merge%20Sorted%20Array/Description.md) 
 
 - 🟢 [136. Single Number](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/136.%20Single%20Number/Description.md)
 
