@@ -35,13 +35,11 @@ Pensando em descobrir novas formas de fazer o mesmo, criei este repositório par
 
 - 🟡 [560. Subarray Sum Equals K](https://github.com/PeriloJr/LeetCode-Desafio/blob/main/560.%20Subarray%20Sum%20Equals%20K/Description.md) 
 
-- 🟡 🛠️ [1658. Minimum Operations to Reduce X to Zero](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) 
+# 🛠️ Em andamento
 
-#### Legendas 
-Nível de complexidade:
+- 🟡 [1658. Minimum Operations to Reduce X to Zero](https://github.com/PeriloJr/LeetCode-Desafio/tree/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) 
+
+#### Nível de complexidade 
 - 🟢 - Fácil
 - 🟡 - Moderado
 - 🔴 - Difícil
-
-Ícones:
-- 🛠️ - Em desenvolvimento
