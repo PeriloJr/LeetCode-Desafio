@@ -15,11 +15,10 @@ O LeetCode é uma plataforma online popular que oferece uma ampla variedade de p
 
 ## 🌟 Motivação
 
-Trabalhar na área de desenvolvimento é algo desafiador que requer uma lógica avançada.
-
-Devido ao ambiente de trabalho possuir cada dia mais desafios é sempre interessante adquirir cada vez mais conhecimento.
-
-Pensando em descobrir novas formas de fazer o mesmo, criei este repositório para armazenar todos os desafios desenvolvidos.
+Pensando em se desafiar cada vez mais na base de meu conhecimento, estou criando o repositório para exercitar e ampliar cada vez mais minha lógica em resolução de desafios.
+Desde minha inserção na área de tecnologia, o que mais verificamos é que existem diversas formas de chegar em um mesmo resultado, porém existem maneira melhores e mais robustas de implementar uma melhor lógica.
+Outro ponto interessante que diversas empresas de grande nome no mercado solicitam uma prova de raciocínio lógico com problemas dessa plataforma.
+É possível verificar uma extensa relação de exercícios que possivelmente são cobrados nessas companhias através do [repositório](https://github.com/hxu296/leetcode-company-wise-problems-2022) do Dev hxu296.
 
 # 🎉 Desafios concluídos
 
